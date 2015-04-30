@@ -1,3 +1,5 @@
+#task 2: summa keys of tree
+
 from random import random
 import threading
 
